@@ -1,0 +1,8 @@
+/app1/nbproject/private/
+/nbproject/private/
+settings-stage.php
+settings-prod.php
+book_apps/
+ex_solutions/
+ex_starts/
+dbsqlexam/*.php

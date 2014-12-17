@@ -1,0 +1,125 @@
+
+#banner {
+    padding: 0px;
+    margin: 0px;
+    height: 250px;
+    width: 800px;
+    background-image: url('/images/logo-large.png');
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: center;
+}
+body {
+    width: 800px;
+    margin: auto;
+    background-color:whitesmoke;
+}
+
+html {
+    background-color:#0099cc;
+}
+
+#commentdiv {
+    text-align: left;
+    margin: auto;
+    width: 80%;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    background-color:darkgray;
+    font-size: 25px;
+}
+
+nav ul {
+    display: inline;
+    padding: 0px;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    padding: 0px 7px;
+}
+
+.item {
+    display: block;
+    float: left;
+    margin: 1% 0 1% 1.6%;
+}
+.item:first-child { margin-left: 0; }
+
+.item a:link {
+   text-decoration: none;
+}
+
+.item img {
+    max-width: 100%;
+}
+
+.item figure {
+    margin: 5px;
+}
+
+.itemfigure figure {
+    position: relative;
+}
+
+.itemfigure img {
+    display: block;
+    margin: auto;
+}
+
+.itemfigure figcaption {
+    background: rgba(0, 0, 0, 0.5);
+    color: #FFF;
+    margin: 0px;
+    font-size: smaller;
+    text-align: center;
+}
+
+.itemfigure figcaption h2 {
+    padding:0px;
+    margin:0px;
+    font-style: italic;
+}
+
+#itemdetails {
+    text-align: center;
+    margin: auto;
+}
+
+#header { width: 100% }
+.gallery {
+    width: 100%;
+    clear: both;
+    padding: 0px;
+    margin: 0px;
+}
+
+.group:before,
+.group:after {
+	content:"";
+	display:table;
+}
+.group:after {
+	clear:both;
+}
+
+.span_1 {
+	width: 30%;
+}

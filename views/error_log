@@ -1,0 +1,8 @@
+[17-Dec-2014 05:22:57 America/Denver] PHP Notice:  Undefined variable: name in /home3/pratthom/public_html/jeremypratt/views/contact.php on line 23
+[17-Dec-2014 05:22:57 America/Denver] PHP Notice:  Undefined variable: email in /home3/pratthom/public_html/jeremypratt/views/contact.php on line 27
+[17-Dec-2014 05:22:57 America/Denver] PHP Notice:  Undefined variable: subject in /home3/pratthom/public_html/jeremypratt/views/contact.php on line 31
+[17-Dec-2014 05:22:57 America/Denver] PHP Notice:  Undefined variable: message in /home3/pratthom/public_html/jeremypratt/views/contact.php on line 35
+[17-Dec-2014 05:25:45 America/Denver] PHP Notice:  Undefined variable: name in /home3/pratthom/public_html/jeremypratt/views/contact.php on line 23
+[17-Dec-2014 05:25:45 America/Denver] PHP Notice:  Undefined variable: email in /home3/pratthom/public_html/jeremypratt/views/contact.php on line 27
+[17-Dec-2014 05:25:45 America/Denver] PHP Notice:  Undefined variable: subject in /home3/pratthom/public_html/jeremypratt/views/contact.php on line 31
+[17-Dec-2014 05:25:45 America/Denver] PHP Notice:  Undefined variable: message in /home3/pratthom/public_html/jeremypratt/views/contact.php on line 35
